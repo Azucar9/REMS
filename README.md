@@ -8,7 +8,7 @@ PROPERTY PAGE
 
 
 ADMIN DASHBOARD
-![Admin Dashboard](https://github.com/Azucar9/REMS/assets/100841285/3e1c7ba6-e2b4-46a1-8119-c3218d846fe8)
+![Admin Dashboard 1](https://github.com/Azucar9/REMS/assets/100841285/e19e737a-9b79-4011-b0bc-56cd9ffc0bf6)
 
 
 USER LOGIN
